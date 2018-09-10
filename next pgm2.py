@@ -1,6 +1,6 @@
 import random
 
-fruits = ("apples", "mangos", "grapes", "lychee", "banana", "berry")
+fruits = ("apples", "mangos", "grapes", "lychee", "banana",)
 items = random.choice(fruits)
 print()
 
